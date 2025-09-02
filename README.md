@@ -1,4 +1,3 @@
-# Snake-Game
 import curses
 import random
 import time
